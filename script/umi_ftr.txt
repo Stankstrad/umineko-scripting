@@ -33257,7 +33257,7 @@ return
 	if %game_language = 4 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}自定義}",1280,%y+100
 	if %game_language = 5 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}Personalizzata}",1280,%y+100
 	if %game_language = 6 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}Özel}",1280,%y+100
-	if %game_language = 6 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}Personnalisé}",1280,%y+100
+	if %game_language = 7 lsp 299,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}Personnalisé}",1280,%y+100
 	~
 	lsp 297,":a/2,0,3;graphics\menu_en\config\config_left.png",1210,%y+112
 	lsp 298,":a/2,0,3;graphics\menu_en\config\config_right.png",1640,%y+112
