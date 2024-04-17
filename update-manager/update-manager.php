@@ -500,6 +500,9 @@ function main($argc, $argv) {
 				$footer = file_get_contents($scripting.'/script/cht/umi_ftr.txt');				
 			if ($locale == 'tr')
 				$footer = file_get_contents($scripting.'/script/tr/umi_ftr.txt');
+			if ($locale == 'fr')
+				$footer = file_get_contents($scripting.'/script/fr/umi_ftr.txt');
+			$script .= str_replace(CRLF, LF, $footer);
 			$script .= str_replace(CRLF, LF, $footer);
 
 			localiseScript($script, $scripting.'/script/'.$locale.'/');
