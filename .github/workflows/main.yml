@@ -265,7 +265,7 @@ jobs:
           asset_content_type: application/zip
       
       - name: Upload FR
-        if: github.repository_owner == 'umineko-project' && github.ref_name == 'master'
+        if: github.repository_owner == 'Stankstrad' && github.ref_name == 'master'
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -276,7 +276,7 @@ jobs:
           asset_content_type: application/zip
 
       - name: Upload FR (dev)
-        if: github.repository_owner == 'umineko-project' && github.ref_name == 'master'
+        if: github.repository_owner == 'Stankstrad' && github.ref_name == 'master'
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
