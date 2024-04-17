@@ -87,7 +87,7 @@ jobs:
           echo "Refer to https://forum.umineko-project.org for more details." >> release_notes.md
 
       - name: Release
-        if: github.repository_owner == 'umineko-project' && github.ref_name == 'master'
+        if: github.repository_owner == 'Stankstrad' && github.ref_name == 'master'
         id: create_release
         uses: actions/create-release@v1
         env:
@@ -100,7 +100,7 @@ jobs:
           prerelease: false
 
       - name: Upload Extra
-        if: github.repository_owner == 'umineko-project' && github.ref_name == 'master'
+        if: github.repository_owner == 'Stankstrad' && github.ref_name == 'master'
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -111,7 +111,7 @@ jobs:
           asset_content_type: application/zip
 
       - name: Upload Main
-        if: github.repository_owner == 'umineko-project' && github.ref_name == 'master'
+        if: github.repository_owner == 'Stankstrad' && github.ref_name == 'master'
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -122,7 +122,7 @@ jobs:
           asset_content_type: application/zip
 
       - name: Upload Main (dev)
-        if: github.repository_owner == 'umineko-project' && github.ref_name == 'master'
+        if: github.repository_owner == 'Stankstrad' && github.ref_name == 'master'
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
