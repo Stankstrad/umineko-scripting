@@ -1,0 +1,657 @@
+`" ............Vous avez...`
+` Vous avez encore bu de l'alcool, n'est-ce pas ?"`
+` Le vieux médecin pousse un soupir en retirant son stéthoscope.`
+` On aperçoit deux hommes âgés dans le bureau faiblement éclairé, empli de poussière et d'une odeur nauséabonde.`
+` Dans le coin de cette pièce, qui était beaucoup plus grande que ce que la plupart des gens appelleraient un bureau,`
+` il y avait un lit d'apparence coûteuse, un homme en train de subir un examen médical et le médecin qui la dirigeait.`
+`{n} Il y avait aussi ce qui semblait être un serviteur qui surveillait toute la scène.`
+`"La bouteille est mon amie.`
+` Elle n'est pas moins amie que vous, et elle est restée à mes côtés plus longtemps que vous."`
+` L'homme qui avait dénudé son torse pour le stéthoscope s'exprima sans hésitation en remettant ses vêtements en ordre.`
+`"............Kinzo‐{c:86EF9C:san}.`
+` ...Votre corps ne semble aller bien que grâce aux effets du médicament.`
+` Cependant, si vous continuez à boire des alcools aussi forts, le traitement n'aura plus de sens.`
+` ..Faites confiance à mon jugement.`
+` Modérez votre consommation."`
+`"Je vous remercie, même si ce n'est que pour le sentiment,`
+` mon ami.`
+` .........Genji.`
+` Un autre verre.`
+` Arrosez-le légèrement.`
+` De cette façon, Nanjo peut sauver la face."`
+`".........Are you quite sure?"`
+` Après avoir regardé à la fois le maître qui exigeait l'alcool et son médecin qui l'interdisait,`
+` Genji, le vieux majordome, fit silencieusement un léger signe de tête et exécuta fidèlement les ordres de son maître.`
+` Nanjo, le médecin personnel de l'homme, poussa à nouveau un profond soupir en regardant le majordome s'affairer près de l'armoire à alcool...`
+` Une odeur envahit la pièce.`
+` ...Ce doux arôme empoisonné donnait l'impression de faire fondre le coeur, sinon l'âme elle-même.`
+` C'était l'odeur de cette boisson verte venimeuse dont l'homme ne pouvait se séparer.`
+`"......Nanjo.`
+` Tu es mon ami proche depuis de nombreuses années.`
+` Je te suis profondément reconnaissant pour tout ce que tu as fait pour me garder en vie aussi longtemps."`
+`"Je n'ai rien fait.`
+` ......Après tout, vous n'avez jamais écouté mes conseils en tant que médecin."`
+`"Hahahaha...`
+` Et vous n'écoutez jamais quand je vous préviens d'un mauvais coup d'échecs que vous êtes sur le point de faire.`
+` Il semble que nous soyons quittes."`
+`"......Mon seigneur."`
+`"Merci.`
+` ......Je ne mourrais pas si je n'avais plus de médicaments, mais je mourrais si je n'avais plus ceci."`
+` Un œil sur Nanjo, dont le visage affichait une expression résignée, Kinzo prit le verre que Genji lui tendait.`
+` ...Il y a probablement très peu de gens qui associeraient la couleur venimeuse qui remplissait le verre à une boisson alcoolisée.`
+`".........Nanjo.`
+` Sois honnête avec moi.`
+` Combien de temps me reste-t-il ?"`
+`"Eh bien, maintenant...`
+` How short must I make it to get you to stop drinking?"`
+` Nanjo poussa à nouveau un soupir de résignation.`
+`{n}Tandis qu'il regardait Kinzo descendre le verre sans broncher, il prit la parole.`
+`".........Vous n'avez pas beaucoup de temps."`
+`"...Qu'est-ce que tu veux dire exactement par là ?"`
+`"......Illustrons-le avec le jeu d'échecs ici.`
+` Vous terminez plutôt bien la partie, mais je ne vous vois finalement pas coincer mon roi."`
+` Le regard de Nanjo était dirigé vers une table d'appoint sur laquelle était posé un imposant jeu d'échecs.`
+` À en juger par le positionnement des pièces, le match était bien avancé dans la phase finale.`
+`{n}La tour et le fou noirs s'enfonçaient profondément dans les lignes ennemies.`
+`Le roi blanc avait déjà été roqué et acculé, de sorte que même un amateur pouvait voir que le match atteindrait sa conclusion avant longtemps.`
+`A chaque fois que Nanjo venait faire un examen médical, ils jouaient tous les deux quelques coups.`
+`Nanjo affirmait avec confiance que Kinzo tomberait probablement dans son sommeil éternel avant que ce match ne puisse être conclu.`
+`...C'était moins les paroles d'un médecin que celles d'un vieil ami.`
+`"............Si vous étiez un patient normal,`
+` je vous recommanderais de rédiger un testament à ce stade."`
+`"......Et qu'est-ce qu'un testament, Nanjo ?`
+` Des instructions manuscrites aux vautours sur la façon de dévorer et de disperser mon cadavre ?"`
+`"Non, pas du tout.`
+` ......Comme le mot l'indique, c'est un moyen pour vous d'enregistrer votre volonté pour les générations futures.`
+` C'est bien plus qu'un simple moyen de diviser votre héritage."`
+`"Hoh.`
+` ......Et à part le partage de l'héritage, de quoi pourrais-je écrire ?"`
+`"............Oh, il y a vos regrets..`
+`et les affaires que vous avez laissées inachevées.`
+` Des choses que vous voulez transmettre...`
+`...et des choses que vous voulez raconter`
+` ......Tout ce que vous voulez"`
+`"......Hmph.`
+` .........Les choses que je veux transmettre et les choses que je veux raconter?`
+` Ridicule.`
+` Moi, Ushiromiya Kinzo, je n'ai pas une seule chose à dire ou à laisser derrière moi !"`
+`"Je suis né sans rien.`
+` Je mourrai sans rien !`
+` Il n'y a rien que je veuille laisser à mes enfants insensés !`
+` Même si la fin devait arriver aujourd'hui, même si elle devait arriver maintenant !`
+` J'accepterai ce destin mortel sans la moindre crainte !"`
+`"......Kinzo‐san."`
+`"J'ai tout créé.`
+` Ma fortune !`
+` Mon prestige !`
+` Tout !`
+` C'est moi qui les ai construits, et ils seront perdus en même temps que moi.`
+` Il n'y a rien que je veuille laisser derrière moi !"`
+`"Rien !`
+` Après ma mort, je ne me soucie pas que tout soit perdu !`
+` Je ne veux ni tombe, ni cercueil !`
+` Tels sont les termes du contrat que j'ai passé avec la sorcière.`
+` Quand je mourrai, tout sera perdu !`
+` Cela fait partie de la promesse depuis le début, et c'est pourquoi rien ne sera laissé derrière.`
+` Il n'y a rien que je puisse laisser derrière moi !!"`
+` Après avoir atteint un crescendo furieux, Kinzo s'est soudainement effondré.`
+`...Son expression était molle et faible, comme si un esprit maléfique l'avait possédé puis quitté.`
+`"..................`
+` Toutefois, j'ai un regret.`
+` Je n'ai rien à laisser derrière moi, mais il y a une chose que je ne peux pas laisser sans rien faire..."`
+`".........Vous feriez bien de l'écrire.`
+` Bien sûr, il serait préférable que vous puissiez l'achever avant que votre heure n'arrive.`
+` Cependant, même si le pire arrive, ceux qui viendront après vous le mèneront à bien.`
+` Vous devez laisser derrière vous vos regrets afin qu'ils puissent être résolus même si vous n'êtes pas en mesure de le faire vous-même.`
+` ......C'est le but d'un testament."`
+`Lorsque Nanjo essaya de tapoter doucement l'épaule de Kinzo, le mourant entra dans une rage soudaine et repoussa la main de Nanjo.`
+`"Ce n'est pas bon, pas bon, pas bon !"`
+`"Il faut le faire pendant que je suis encore en vie ! Au moment de ma mort, mon âme sera dévorée par les démons du contrat et effacée de l'existence !`
+` Pour moi, il n'y aura ni paix ni autre monde après la mort !`
+` C'est pourquoi tout doit être fait avant mon départ !`
+` C'est pourquoi un testament n'a aucun sens pour moi !"`
+`"Et si j'avais le temps d'écrire une telle chose...`
+` ...Si j'avais du temps à perdre!`
+` ...je voudrais le voir.`
+` Je voudrais le voir encore une fois!`
+` Je veux voir le visage souriant de {f:5:Béatrice} une dernière fois!!"`
+`"Oh, {f:5:Beatrice}, pourquoi me résistez-vous ainsi?!`
+` Je vous rendrais tout ce que vous m'avez donné en ce moment même. Je suis prêt à tout perdre!`
+` Alors s'il vous plaît, montrez-moi votre sourire juste une fois de plus..."`
+`"{f:5:Beatrice}, je t'en supplie, tu dois pouvoir entendre cette dernière demande, c'est le genre de femme que tu es!`
+` Je t'en supplie, montre-toi à moi !`
+` Vous êtes là, n'est-ce pas ?!`
+` Vous vous tenez là, invisible, écoutant chaque mot que je dis, et même maintenant vous vous moquez de moi de quelque part dans cette pièce, n'est-ce pas ?"`
+`"S'il vous plaît, apparaissez devant moi une fois de plus et souriez!`
+` N'hésitez pas à me réprimander, et même à m'arracher la vie de vos propres mains si vous le souhaitez !`
+` Je ne veux pas mourir seul comme ça !`
+` Je ne peux pas me laisser mourir avant d'avoir vu ton sourire une dernière fois!"`
+`"Aah, {f:5:Beatrice}, {f:5:Beatrice}!!`
+` Je t'offre ma vie, je te l'offre !`
+` Je t'en supplie, {f:5:Beatriceeeeee}!!!"`
+`"Whoa...`
+` Les choses évoluent avec le temps...`
+` Je n'arrive pas à croire que nous pourrons faire le voyage en seulement vingt minutes..."`
+`Je n'ai pas pu m'empêcher de me gratter la tête et de m'émerveiller du chemin parcouru ces dernières années.`
+`{n}Nous avions l'habitude d'y aller en bateau.`
+`A l'époque, nous devions tous endurer près d'une demi-journée de va-et-vient sur la mer avant d'atteindre Niijima.`
+` Les choses sont devenues tellement plus pratiques de nos jours. `
+`Néanmoins, je n'ai jamais été dans un avion aussi petit. `
+`{n}J'ai déjà volé dans un énorme Boeing, mais ce sera ma première expérience dans un si petit avion.`
+`...Ça va secouer, n'est-ce pas..`
+` On dit que les petits bateaux secouent plus, alors je suppose que la même règle s'applique aux avions.`
+`...Aaah, épargnez-moi.`
+`"Haahahaha, ne t'inquiète pas, Battler.`
+` Il secouera beaucoup moins que ce bateau."`
+`"Gyah?! ...C'est toi, George‐{c:86EF9C:aniki}?!"`
+`"Heheh, ne me fais pas peur comme ça... Tu viens de me faire perdre trois ans.`
+` De toute façon, qu'est-ce que les tremblements a à voir avec quoi que ce soit ? "`
+`"Ihihihi, tu ne crois pas que j'ai vraiment peur que l'avion tremble ou qu'il tombe du ciel, n'est-ce pas ?"`
+`"Oh, bien sûr que non, c'est une erreur.`
+` Je suis sûr que tu as beaucoup changé depuis la dernière fois que nous t'avons vu.`
+` Après tout, ça fait six ans depuis.`
+` Tu n'es plus un enfant.`
+` Hahahahaha."`
+`"Bon sang, et te voilà assez vieux pour fumer et boire.`
+` Je n'ai aucune envie de fumer, mais j'ai toujours voulu essayer l'alcool, heheheh!`
+` Si tu as les gènes de ton père, je parie que tu peux te débrouiller tout seul quand il s'agit de boire, n'est-ce pas ?"`
+`"Eh bien, je bois généralement pour le travail plutôt que pour le plaisir.`
+` Il est assez difficile de faire des affaires au Japon sans cela."`
+`"Ihihihi!`
+` C'est exactement ça !`
+` Du coup, je pensais faire ma première tentative ce soir au dîner !"`
+`"Ce...Ce n'est pas bon, Battler-kun, tu es encore mineur !`
+` La consommation d'alcool est connue pour freiner la croissance des mineurs et...`
+`...hum, peu importe."`
+`"Allez, je suis déjà assez grand !`
+` En fait, ça serait plus facile de trouver des vêtements si je rapetissais un peu !"`
+`J'ai gonflé ma poitrine avec fierté.`
+`Jusqu'à ma poussée de croissance, ma taille était en dessous de la moyenne de ma classe.`
+`Mais ensuite, j'ai grandi, grandi, et avant que je m'en rende compte, j'avais dépassé les 180 cm.`
+`Je suppose que c'est grâce à tout cet entraînement musculaire et à ces médicaments douteux vendus par correspondance que j'ai pu atteindre cette taille.`
+`Avant cela, je n'avais jamais rêvé que je dépasserais George de dix centimètres, lui qui avait atteint sa taille maximale très tôt.`
+`......Je parie que mes proches disent tous "regarde comme tu as grandi, Battler" ou quelque chose du genre.`
+`...Ce genre de chose est vraiment embarrassant, alors j'espère qu'ils me laisseront tranquille.`
+`De toute façon, mon nom, "Battler"...`
+`...et bien, c'est assez bizarre, vous ne trouvez pas ?`
+`Je me demande à quoi pensaient mes parents quand ils m'ont donné ce nom.`
+`{n}Je n'ai jamais rencontré quelqu'un qui pouvait le lire correctement du premier coup.`
+`On m'appelle généralement "{c:86EF9C:Sento‐kun}".`
+`{n}Too bad, swing and a miss.`
+`Mon nom s'écrit {p:0:右代宮 戦人}.`
+`{n}Tu peux le lire ?`
+` La première partie est mon nom de famille, "Ushiromiya.`
+` C'est une prononciation japonaise assez plausible jusqu'à présent.`
+`Le problème, c'est mon propre nom. `
+`{n}.........{p:0:戦人} est composé des caractères pour "combat" et "personne", et se prononce "Battler".`
+`Ensemble, vous obtenez Ushiromiya Battler.`
+`C'est fou, non ?`
+` C'est déjà assez fou que mes parents aient décidé de m'appeler ainsi, mais c'est encore plus fou qu'un fonctionnaire les ait laissés officialiser ce nom.`
+` ...Ces deux groupes sont en haut de ma liste de personnes à abattre.`
+`En tout cas, voici l'un de mes cousins. `
+`Il s'appelle {p:0:右代宮 譲治}, prononcé Ushiromiya George.`
+`Il a cinq ans de plus que moi, il va donc probablement avoir 23 ans cette année.`
+`{n}Comme les cousins Ushiromiya sont composés de deux garçons et de trois filles, j'ai fini par jouer avec George tout le temps.`
+`Et comme je l'ai toujours considéré comme un grand frère, je l'appelle encore aujourd'hui "Aniki"`
+`"Whoo, Battler‐kun, regarde comme tu as grandi.`
+` Tu sais ce qu'on dit, "laisse un garçon pendant trois jours et tu le reconnaîtras à peine" !"`
+`"Ça doit être dans son sang, je suppose.`
+` Rudolf n'était pas très grand non plus jusqu'à ses années de lycée.`
+` Peut-être que les gens finissent par être plus grands si leur poussée de croissance est tardive."`
+`"Non, il n'y a rien de spécial.` even quick to give out some spending money
+` Un vrai homme doit être dur à l'intérieur aussi !"`
+`"Exactement !`
+` Battler-kun sait comment ça marche !`
+` Les vrais hommes gagnent ou perdent en fonction de ce qu'ils ont à l'intérieur !`
+` N'oublie jamais de t'entraîner et de te discipliner.`
+` Vous faites ça, vous attendez très attentivement le moment parfait... et vous frappez !"`
+`"Je n'aurais jamais imaginé devenir le président d'entreprise que je suis aujourd'hui, maître de mon domaine...`
+` Oui, penser que j'en suis arrivé là après avoir commencé sans le sou et ruiné..."`
+`Cet homme corpulent et légèrement joufflu...`
+`est le père de George-aniki, Oncle Hideyoshi  ({p:0:秀吉}).`
+`C'est le mari de la soeur aînée de mon père.`
+`{n}En d'autres termes, nous ne sommes pas liés par le sang.`
+`Il est gentil avec les enfants, sociable tout le temps, et n'hésite pas à donner de l'argent de poche à nous, les enfants. En un mot, c'est un oncle génial.`
+`Il s'exprime dans un dialecte étrange et très visible du style Kansai, apparemment de sa propre création, mais c'est en fait un homme né à Kanto..`
+`Apparemment, laisser une impression est essentiel dans le monde des affaires,`
+` c'est pourquoi parler dans un style différent de celui des autres est un acte qui lui permet de se faire remarquer davantage.`
+`......Cependant, j'ai entendu dire qu'il était gêné lorsqu'il parlait à un vrai habitant du Kansai, alors il revenait au japonais standard.`
+`...Je ne comprends pas vraiment, mais c'est vraiment quelqu'un d'intéressant.`
+`"Si seulement vous n'étiez pas si enthousiasmé à vous vanter de l'histoire de votre vie...`
+` C'est assez pour l'instant, je pense.`
+` Je suis sûr que Battler-kun commence à en avoir assez.`
+` N'est-ce pas ?"`
+`"Non, pas du tout, hihihi !`
+` Rien de mal à cela.`
+` Je pense que c'est plutôt cool pour un homme d'avoir des histoires dont il peut se vanter.`
+` Je n'ai rien du tout de ce genre."`
+`"Oh, vraiment ?`
+` J'imagine qu'un homme avec votre physique ferait pleurer les filles à gauche et à droite, alors j'ai du mal à croire que vous n'avez rien du tout dont vous puissiez vous vanter..."`
+`"Nonononono!`
+` Hum‐`
+`Vous plaisantez, n'est-ce pas ?!`
+` Bien sûr, rien de bizarre comme ça ne m'est jamais arrivé !`
+` En fait, si vous connaissez quelqu'un, je suis tout ouïe !"`
+`"Oh, je suis sûr que vous avez des histoires à raconter !`
+` ...*Pouffe de rire* Tu devras tout raconter à ta tante plus tard. `
+` Après tout, George ne vient jamais me voir pour me parler de ce genre de choses. `
+` Heheheh..."`
+`Voici ma tante et la mère de George-aniki, Tante Eva ({p:0:絵羽}).`
+`C'est la sœur aînée de mon père`
+`{n}Elle et oncle Hideyoshi sont une paire de plaisantins, et ils m'ont toujours taquiné d'aussi loin que je me souvienne.`
+`C'est pourquoi il était parfois difficile de s'entendre avec eux quand j'étais petit.`
+`{n}...Cela dit, je suis en train de découvrir qu'ils sont toujours aussi difficiles à vivre.`
+`Malgré tout, la famille de George-aniki est intéressante et amusante, et ils semblent s'entendre très bien.`
+`......C'est à peu près tout le contraire de ma famille.`
+`"Battler‐kun,`
+` as-tu vu Rudolf-san ?"`
+`"Hein ?`
+` Il est parti aux toilettes il y a un moment.`
+` Il n'est {i:toujours} pas rentré ?`
+` Heh, peut-être que l'ancien est tombé raide mort... {c:86EF9C:Namunamunamu}."`
+`"Ce n'est pas une façon de parler de son propre père.`
+` Pourtant, ce n'est pas la première fois qu'il prend autant de temps dans la salle de bain."`
+`"Oui, il a toujours été comme ça.`
+` Est-ce qu'il doit vraiment prendre un magazine avec lui à chaque fois qu'il a besoin de chier ?`
+` Oh, qu'est-ce qu'il peut bien faire avec ça !`
+` Ihihi!"`
+`"Oh, tu n'as pas à t'inquiéter de ça du tout.`
+` Tant que nous sommes ensemble, je ne le laisserai pas faire ça tout seul."`
+`"Hihihi!`
+` Oooh, il faudra me donner les détails croustillants plus tard!`
+` On dirait que papa tient ses couilles d'une main de fer."`
+`"Tu sais exactement ce qui arriverait à cet homme si je ne le tenais pas fermement, n'est-ce pas ?"`
+`"Oh, sans blague.`
+` Tu es le seul capable de faire régner ce vieux con.`
+` En tant que fils, je suis plus qu'heureux de te laisser prendre le relais."`
+`"Oui, laisse-moi faire.`
+` Après tout, c'est ma spécialité."`
+`Cette femme est la femme de mon père.`
+`Elle s'appelle Ushiromiya Kyrie ({p:0:霧江}).`
+`Comme vous pouvez probablement le constater d'après notre conversation, elle n'est pas ma vraie mère.`
+`{n}Elle est en fait ma belle-mère.`
+`Ma vraie mère est morte il y a six ans..`
+`{n}Kyrie-san est la femme que papa a épousée par la suite.`
+`Je veux dire, je ne suis plus un enfant.`
+`{n}Il est bien trop tard pour que je commence à appeler sa seconde femme "maman".`
+`Et je doute qu'elle ait envie d'utiliser le mot "fils" pour ce grand gamin qui n'a aucun lien de parenté avec elle. `
+`Nous ne sommes pas des enfants.`
+`{n}Nous savons qu'il n'y a rien à gagner à se battre.`
+`Alors, nous avons décidé que nous ne nous forcerions pas à prétendre que nous sommes une famille.`
+`{n}J'ai décidé d'agir un peu plus franchement avec elle, comme si elle était une voisine amicale à la place.`
+`Il est beaucoup plus facile de garder une certaine distance, au lieu de se forcer à agir de manière proche et de se mettre mal à l'aise.`
+`Kyrie-san a été très ouverte à propos de tout cela, et grâce à cela, nous avons pu nous entendre assez bien.`
+`Alors que nous profitions de l'absence de papa dans la salle de bain pour dire du mal de lui,`
+` l'homme lui-même est revenu, s'essuyant les mains avec un mouchoir`
+`"Hmm?`
+` Battler."`
+`"Hé, quoi de neuf, papa ?"`
+`"...Owowowowww!`
+` Ne me pince pas l'oreille, gaah!"`
+`"Alors, tu as encore parlé de moi avec maman, n'est-ce pas ?`
+` Pourquoi est-ce si difficile de montrer un peu de respect pour ton père, hmm ?"`
+`"Owowow, owowowowow!`
+` Bon sang, ça fait mal, vieux con !`
+` Etire-moi l'oreille autant que tu veux, je ne pourrai toujours pas voler !"`
+`"Viens-là!`
+` Haut,`
+` haut,`
+` côté,`
+` côté,`
+` tourne en rond,`
+` tourne dans l'autre sens,`
+` multiplier maxed out,`
+` with an extra x2 on top!`
+` Maintenant, dis "Père, pardonnez-moi d'avoir été si impoli"`
+`"Like hell I will, go find yourself some members‐only store if you want it that much!`
+` Gyaah, let goooo!!"`
+`......Ce vieux bâtard est mon père. `
+`{n}Je pense que je suis assez grand, mais papa est à peu près de la même taille.`
+`Ce n'est pas une surprise que tante Eva ait commencé à parler du sang de papa quand elle a vu ma taille.`
+`D'ailleurs, ma taille n'est pas la seule chose que je tiens de lui.`
+`{n}Il semble que le fait d'avoir des noms bizarres soit un trait de famille.`
+`Le nom complet de papa s'écrit {p:0:右代宮 留弗夫}.`
+`......Tu peux le lire?`
+` Peu de gens le peuvent, je vous le dis.`
+`{n}Ce fouillis de caractères se prononce "Rudolf".`
+`Haha... il doit détester grand-père pour lui avoir donné ce nom.`
+`Cependant, ce n'est pas une raison pour me transmettre cette étrange tradition de nom.`
+`Alors que le vieux con me tordait l'oreille dans tous les sens, Tante Eva se faufila derrière lui et lui attrapa l'oreille.`
+`"Hé, Rudolf?`
+` Ne te défoules pas sur ton gosse."`
+`"Gyaah, ça fait mal, Aneki..."`
+`La scène qui se déroulait devant moi était une parfaite réalisation de la grande sœur qui punit son petit frère farceur malgré sa taille.`
+`"Je pense que c'est suffisant pour l'instant, Eva nee-san.`
+` Je m'assurerai d'étirer son autre oreille plus tard."`
+`"Oh, mes excuses.`
+` I must leave some pulling for you to do, Kyrie‐san."`
+`"Rudolf?`
+` Assure-toi que Kyrie-san te donne beaucoup de punitions plus tard, d'accord ?"`
+`"Tu parles, Aneki, de malmener ton petit frère comme ça."`
+`"Hideyoshi nii-san, je voudrais vous remercier d'être venu la chercher.`
+` Si vous n'aviez pas été si généreux, elle serait toujours invendue dans le magasin.`
+` Vous avez ma gratitude et mes excuses."`
+`"...Hmm~?!`
+` Qui appelez-vous "invendu" ?"`
+`Après avoir fait deux ou trois pas en arrière,`
+` Tante Eva a donné un de ses magnifiques coups de pied retournés, qui s'est arrêté à un centimètre du bout du nez de papa.`
+`Après avoir commencé par le Tai-chi-chuan pour sa silhouette, tante Eva s'est ensuite intéressée aux arts martiaux chinois.`
+` Après cela, elle est passée par le karaté, le taekwondo, la capoeira, ...et qu'est-ce qu'elle est en train d'apprendre maintenant ? `
+`...De toute façon, on dit que les armes d'une femme se trouvent dans le bas de son corps, et c'est littéralement vrai pour tante Eva.`
+`"Rudo~lf?`
+` Sais-tu qu'un seul direct sur le côté de la tête comme celui-ci te rendrais inconscient ?`
+` Il n'y a pas si longtemps, j'ai accidentellement utilisé lors d'un match d'entraînement, et mon adversaire a fini K.O."`
+`"...Sheesh, what a pain.`
+` Je suppose que je dois m'excuser pour sa tendance à se battre avec ses pieds."`
+`Papa, complètement imperturbable, haussa les épaules et sourit ironiquement à l'Oncle Hideyoshi.`
+`"Wahahaha, je n'ai jamais eu de frère ou de sœur.`
+` Alors, quand je vous vois vous chamailler, ça me fait chaud au cœur.`
+` C'est vraiment bien d'avoir une grande famille et des frères et sœurs."`
+`"Oh, alors pourquoi ne pas envisager de faire un petit frère à George-kun ?`
+` Il est déjà un adulte qui est sur le point de voler de ses propres ailes, alors c'est peut-être le bon moment pour avoir un autre enfant."`
+`"Hé, ayez un peu de sympathie pour le nouvel enfant et toute la douleur et la souffrance qu'il devra endurer.`
+` Je suis surprise que même George-kun ait réussi à s'en sortir aussi bien qu'il l'a fait après être né de cette sinistre sœur qui est la mienne."`
+`"Et quel enfant génial il est.`
+` S'il vous plaît, partagez un peu de cela avec notre crétin de fils un jour, voulez-vous ?"`
+`"Ce n'est pas comme ça que ça a fonctionné.`
+` C'est grâce à la bonne éducation d'Eva nee-san que George-kun est devenu le bon et gentil garçon qu'il est maintenant.`
+` N'est-ce pas, Nee-san ?"`
+`"Oh, voyons...heheh, tu le penses...?`
+` Notre George a encore un long chemin à parcourir."`
+`"Ah, au fait, comment va votre petite Ange-chan ?`
+` J'ai entendu dire qu'elle vomissait ?"`
+`"Oh, c'est vrai !`
+` Et j'espérais enfin voir son visage après un si long moment.`
+` Elle va bien ?"`
+`"Elle s'enrhume souvent au changement de saison.`
+` Elle est très fragile...`
+` Je voulais l'emmener avec moi, mais nous avons décidé que ma famille s'occuperait d'elle cette fois-ci."`
+`"Je pense que c'est une sage décision.`
+` Elle se remettra plus vite si elle n'est pas exposée à ce foyer toxique.`
+` La santé d'un enfant est toujours plus importante que la commodité d'un adulte, vous ne pensez pas ?"`
+`"Je connais un bon médicament pour les rhumes vomitifs comme ça !`
+` Quand nous rentrerons à la maison, je vous l'enverrai tout de suite, alors n'oubliez pas de lui en donner !"`
+`"Merci beaucoup, Hideyoshi nii-san.`
+` Je vous suis toujours redevable..."`
+`...Et une fois que la conversation a soudainement dévié dans cette direction, nous, les enfants, n'avions plus aucune chance d'intervenir.`
+`Pour l'instant, je suis heureux que tante Eva ait donné à papa ce qu'il méritait pour m'avoir tiré l'oreille.`
+`"On dirait qu'on attend toujours le bulletin météo."`
+`George-aniki pointa le comptoir.`
+`{n}Le panneau "En attente d'autorisation météo" était toujours collé à côté de l'heure de départ prévue pour le vol sur lequel nous devions embarquer.`
+`Selon Aniki, les petits avions sont plus sensibles aux vents et aux autres phénomènes météorologiques,`
+` et il n'est pas rare que les vols soient retardés à cause de cela.`
+`......Attendez une seconde, ça ne va pas vraiment trembler... n'est-ce pas... ?`
+`D'ici, au sol, il y a juste des nuages, pas de vent.`
+`...Eh bien, je suppose que c'est différent là où les avions volent.`
+`"Le temps est un peu incertain aujourd'hui."`
+`Tante Eva regardait la télévision dans le salon.`
+`{n}es prévisions météorologiques étaient diffusées, nous informant qu'un typhon s'approchait de la région de Kanto.`
+`"Encore un typhon ?`
+` ......Je suppose que nous sommes condamnés à cela, avec la réunion familiale qui a lieu chaque année en octobre.`
+` Il ne pouvait pas choisir une meilleure saison ?"`
+`"Je suis d'accord.`
+` J'ai toujours espéré que nous pourrions l'organiser aux alentours du festival d'Obon, à la mi-août.`
+` Dans ce cas, pourquoi ne pas le suggérer à Père et Nii-san pendant la réunion ?"`
+`"...Très drôle.`
+` Pourquoi ne le faites-vous pas vous-même ?`
+` Notre frère n'écouterait jamais ce que je lui suggère."`
+`"Pas question.`
+` Ça ne me dérange pas tant que ça de l'avoir en octobre.`
+` C'est toi qui t'es plaint du typhon, alors j'ai dit "demande-leur de le changer",`
+` c'est tout."`
+`"J'ai seulement dit que les typhons arrivent toujours à cette période de l'année.`
+` C'est vous qui avez dit que vous vouliez le rapprocher d'Obon."`
+`"Eh bien, vous l'avez dit aussi l'année dernière !`
+` N'avez-vous pas dit qu'il serait plus facile de s'adapter à votre emploi du temps si nous le faisions plus près d'Obon ? !"`
+`"Je n'ai jamais rien dit de tel."`
+`"Oh si, vous l'avez dit.`
+` Je n'oublierais certainement pas quelque chose comme ça !"`
+`"Non, je n'ai pas oublié... C'est vous qui dites ça tout le temps !"`
+`"Vous êtes au courant ?`
+` Arrêter un coup de pied à un cheveu de distance est une technique de très haut niveau."`
+`"Sheesh, les femmes de ton âge devraient être plus correctes que ça !"`
+`La dispute entre papa et tante Eva ne semble pas différente de celle de deux gamins qui se chamaillent...`
+`"Je suppose que c'est parce que, bien qu'ils agissent normalement comme des mères et des pères, `
+` ils redeviennent des enfants lorsqu'ils rencontrent leurs anciens frères et sœurs lors de ces conférences familiales."`
+`"C'est toi qui as l'air d'un vrai adulte, qui analyse tout ça calmement.`
+` ......J'espère ne jamais devenir comme ce vieux con.`
+` Je préfère de loin finir comme un adulte intellectuel comme toi, Aniki."`
+`""Comme moi ?`
+` Oh, j'ai encore un long chemin à parcourir.`
+` J'ai encore très peu d'expérience dans le monde réel, et je dois m'efforcer de devenir plus audacieux et sociable.`
+` Je pense que tu m'as largement dépassé sur tous ces points, Battler-kun.`
+` Je suis sûr que tu me dépasseras assez vite quand tu seras adulte."`
+`George-aniki se gratta la tête et rit, comme s'il essayait de cacher son embarras.`
+`{n}Bien sûr, il ne faisait qu'être humble.`
+`Aniki entra à l'université et devint apprenti dans l'entreprise de l'Oncle Hideyoshi en même temps.`
+`Puis, juste après avoir obtenu son diplôme, il est entré dans l'entreprise de l'oncle Hideyoshi en tant qu'assistant de son père, accumulant une grande expérience de la vie réelle tout en se consacrant avec assiduité à son travail.`
+`Il a même de grands rêves, celui de se mettre un jour à son compte et de devenir le seigneur de son propre domaine.`
+`Aniki est un véritable parangon d'homme, ne ménageant pas ses efforts pour atteindre son but.`
+`Il n'est pas exagéré de dire que je le respecte vraiment.`
+`Et puis il y a moi.`
+`Je ne suis pas du tout comme Aniki.`
+`Je vis ma vie de lycéen heureux et oisif au maximum.`
+`Je n'ai aucun rêve pour l'avenir !`
+`{n}J'aimerais juste m'asseoir, rester cool, et laisser l'argent couler à flot, mais bien sûr cela ne va jamais arriver.``
+`...Quand Aniki avait mon âge, il s'était déjà fixé un objectif impressionnant et avait commencé à se consacrer à l'étude de ce but, alors je suppose que je ne peux pas du tout me comparer.`
+`Mon père m'a juste dit "bien sûr, tu peux étudier dans mon entreprise, si tu aimes nettoyer les toilettes".`
+`Putain, je ne vais pas être dans la dette de ce vieux bâtard.`
+`{n}Je trouverai mon chemin moi-même!`
+`{n}.........Je suppose que l'intensité est ma seule qualification vers l'âge adulte.`
+`Devrais-je faire un de ces voyages de recherche personnelle qui font fureur ces temps-ci ?`
+`{n}.....Bien sûr, ce n'est pas comme si je pouvais demander de l'argent à mes parents...`
+`"......hm?! Ohh~!"`
+`C'est alors que l'Oncle Hideyoshi a poussé un grand cri.`
+`{n}L'Oncle est une personne très gentille dans l'ensemble, mais il a un problème pour contrôler le volume de sa voix.`
+`Quand j'ai regardé, j'ai vu qu'il saluait tante Rosa, qui était arrivée en retard.`
+`"Ohoooooooooh!!!`
+` Si ce n'est pas Rosa-san !`
+` Maria-chan, ça fait longtemps qu'on ne s'est pas vus !"`
+`"Ca fait longtemps qu'on ne s'est pas vus !`
+` Uu!"`
+`"Maria!`
+` Ça ne devrait pas être "C'est bon de te revoir" ?`
+` Salues ton oncle comme il se doit."`
+`"Uu.`
+` C'est... bon de te revoir...."`
+`"Voilà !`
+` Bien dit !`
+` Que dis-tu d'un bonbon en guise de récompense ?`
+` ......Oh, huh?`
+` Où les ai-je mis... ?"`
+`"Rosa-san, c'est bon de te revoir.`
+` C'est bon de te revoir aussi, Maria-chan."`
+`"Cela fait trop longtemps, Kyrie nee-san, Hideyoshi nii-san."`
+`"...Et...`
+`...oh mon dieu, Battler-kun ?!`
+` Regarde comme tu as grandi !"`
+`"Ah, allez, hahaha...`
+` C'est gênant d'entendre ça de la part de chaque personne que je rencontre...!"`
+`"Hé, Rosa.`
+` Tu es en retard.`
+` Si l'avion était à l'heure, tu serais à peine arrivée..."`
+`"Je suis désolée.`
+` Nous avons eu des problèmes pour prendre notre train.`
+` Alors on attend encore la météo ? "`
+`"Oh, te plains pas.`
+` Je préfère de loin un voyage en avion de trente minutes à un voyage de six heures sur un bateau.`
+` Même si on nous fait attendre ici pendant une heure, c'est quand même beaucoup plus rapide."`
+`"Maria-chan est devenue grande elle aussi !`
+` Alors, tu mesures combien maintenant ?"`
+`"Uu!`
+` Euh, combien je mesure ?"`
+`Maria répète la question de l'oncle Hideyoshi en regardant sa mère.`
+`Je suppose qu'elle ne se souvient pas de sa propre taille.`
+`{n}Elle est probablement en pleine poussée de croissance, donc sa taille doit changer tous les mois. `
+`Dans quelques années, elle commencera probablement à avoir l'air très féminine.`
+`"Umm, ...quelle était votre taille la dernière fois que vous avez été mesurée... ?`
+` Elle devient de plus en plus grande.`
+` N'est-ce pas ?"`
+`"Uu!"`
+`"Je pense qu'elle a beaucoup grandi depuis l'année dernière.`
+` Voyons, elle a eu neuf ans cette année, n'est-ce pas ?"`
+`"Neuf ans.`
+` Uu."`
+`"C'est vrai, tu as neuf ans maintenant.`
+` Content de voir que tu vas bien aussi, Maria-chan !"`
+`"Debout toi...`
+`...nng...`
+` Je suppose que tu es devenu un peu trop lourde pour qu'on joue à l'avion..."`
+`"George-aniki, quelle grossièreté de dire ça à d'une dame !`
+` Here, I'll do it... Up ya go~..."`
+`"......Uu."`
+`When I went to lift her up in Aniki's place, Maria stiffened defensively, staring suspiciously at my face.`
+`...Ah, that's right.`
+` The last time I met Maria, it was six years ago, and she was only three years old.`
+`Of course she doesn't remember my face.`
+`"Maria‐chan, don't you remember?`
+` It's Battler‐kun.`
+` You used to play together, remember?"`
+`".........Uu."`
+`"I doubt you'll have any luck.`
+` The last time she met Battler, she was only three.`
+` You don't keep memories at that age."`
+`She must know everyone's face apart from mine because she meets them every year, but I haven't had contact with the Ushiromiya family for about six years now.`
+`So, it's no surprise that this nine‐year‐old girl doesn't have any memories of me.`
+`Even I can only just barely remember her being a three‐year‐old crybaby.`
+`"Maria.`
+` This is Battler onii‐chan.`
+` Uncle Rudolf's son.`
+` ...Understand?"`
+`"............Uncle's son is...`
+` Uncle's the son...`
+` ............??`
+` ......Uuuu!!"`
+`That "uu" was probably the sound of her brain breaking, unable to understand the complicated explanation.`
+`I guess it was a bit too confusing for her.`
+`"Maria‐chan.`
+` This is Battler‐kun.`
+` He's your cousin, like me."`
+`"......Like George onii‐chan?`
+` ...........................Battler?`
+` Cousin?`
+` ......Uu."`
+`"That's right.`
+` You got it."`
+`This part of Aniki is what makes me really look up to him.`
+`For someone who isn't married, he's just great at dealing with kids.`
+`{n}I'm sure that he'll be an indulgent father in the future.`
+`"...Battler onii‐chan?"`
+`Maria looked straight at me with a questioning expression, as though asking whether it was alright to call me that.`
+`"Yep, that's me, Battler.`
+` Nice to meet you, Maria!"`
+`"Uu!`
+` Battler!"`
+`"Maria!`
+` You mustn't address him without honorifics—call him Battler onii‐chan...!"`
+`"It's cool, Auntie Rosa.`
+` I don't sweat the small stuff.`
+` Right, Maria?!`
+` We're buddies on a first‐name basis, us two, aren't we?!"`
+`"Battler, Battler, Battleeerrr!`
+` Uu‐uu!"`
+`"That's right, Maria, Maria, Mariaaa!`
+` Uu‐uu!!"`
+`We horsed around for a while to make up for the six‐year gap in our friendship.`
+`She probably still thinks of me as nothing more than a big new friend, but things'll probably work out as we get to know each other again.`
+`But I'm surprised.`
+` She's just the way I remembered her being six years ago.`
+`Seems that people just don't change that much after all.`
+`{n}I'm a bit happy that she's still the pure, innocent girl I remember.`
+`Her name is written {p:0:真里亞}.`
+`{n}...That one's not so difficult to read.`
+` Of course, it says "Maria".`
+`{n}The third character looks like a cross, which is pretty cool.`
+`Her feelings don't usually show up on her face, so it can be difficult to know just what she's thinking, but that's just how she looks on the outside.`
+`{n}On the inside, she's just a sweet, normal girl.`
+`Then there's Maria's mother, Auntie Rosa.`
+`{n}She's my dad's younger sister.`
+`Rosa is written {p:0:楼座}.`
+` ...Here's a name that's totally not Japanese.`
+`Sorry to say it, but her name's almost as ridiculous as Dad's...`
+` I've got to respect her for not ending up as screwed up as he is.`
+`...When I think about it, all the names in my family sound foreign.`
+`{n}Just why is Grandfather so obsessed with this?`
+`Because of him, even us grandchildren have to put up with this weird naming sense.`
+`{n}It's even more annoying since Grandfather's own name is perfectly normal.`
+`Anyway, there's one thing about Auntie Rosa that's a relief compared to the other family members.`
+`The old bastard and Auntie Eva have this annoying urge to tease and mock people all the time,`
+` but even though she shares their blood, Auntie Rosa isn't like that at all.`
+`She has the most common sense among all the siblings.`
+`Like Uncle Hideyoshi, she's a kind aunt who'll always be on the kids' side.`
+`......However, possibly because she's more strict as a parent, she's not liberal with handing out spending money like Uncle Hideyoshi is.`
+`Alright.`
+` Now we have the entire group of family members who are going to board the plane.`
+`As though it had waited for us all to gather, an announcement rang out through the lobby.`
+`"Our apologies for the wait.`
+` Boarding will now commence for flight 201 to Niijima.`
+` We ask that the passengers please form two lines in front of the counter, behind the white line."`
+`"Rosa, you still haven't gone through boarding procedures, right? Hurry up."`
+`"Oh no...!`
+` Maria, come on!"`
+`"Uu!"`
+`We had to go through a metal detector before going out on the runway.`
+`Our small plane wasn't as massive as an international flight, but it was still a plane.`
+` A staff member holding a metal detector checked us all.`
+`Once all of us cleared the check, we followed the staff member out onto the runway.`
+`Come to think of it, everyone here is in the Ushiromiya family.`
+`It's like this is a reserved charter flight or something.`
+`Our group stopped in front of the entrance to the airplane.`
+`{n}Then, our guide turned around and spoke, looking down at the passenger list as she did.`
+`"Boarding will now commence.`
+` As I call out the names on the passenger list,`
+` please take your seats in order, starting from the front row on the right side and going right to left, then onto the next row.`
+` I will now begin reading the passenger list.`
+` Ushiromiya Hideyoshi‐sama!"`
+`"Oh, I'm first!`
+` Right here!`
+` ...By the way, do you have the candies, Eva?`
+` I've been lookin' all over for 'em, but I can't find 'em."`
+`"Ushiromiya Eva‐sama."`
+`"They're in my handbag.`
+` I'll get them once we're inside the plane."`
+`I've heard that candies are a good way to protect your ears from hurting due to variations in atmospheric pressure when landing or taking off.`
+` That's probably what they're talking about.`
+`"...Hope I get a window seat!"`
+`"Hahaha, don't worry.`
+` There aren't any other kinds of seats."`
+`According to George‐aniki, there are apparently only two lines of seats.`
+`Yep, it's a small plane alright...`
+` .........It isn't really going to shake...is it...?`
+`"Ushiromiya George‐sama."`
+`"Right here.`
+` Don't worry, Battler‐kun.`
+` It won't shake too much."`
+`"Ushiromiya Battler‐sama."`
+`"A‐Aniki, how much is "not too much"?!`
+` You can just swim if you fall from a boat, but if a plane crashes you're screwed, right?!`
+` We all get our own parachutes in our seats, don't we?`
+` Wait, we don't?!"`
+`"Ushiromiya Rudolf‐sama."`
+`"Come on, Battler, quit being a wuss and get in."`
+`"Ow! Dad!`
+` Don't push me!`
+` We don't get parachutes!"`
+`"Ushiromiya Kyrie‐sama."`
+`"Alright, stop fooling around.`
+` Let's move along."`
+`"Ow! Kyrie!`
+` Don't push me!`
+` This blockhead isn't moving forward!"`
+`"Ushiromiya Maria‐sama."`
+`"Uu!`
+` Forward, forward!"`
+`"Ushiromiya Rosa‐sama."`
+`"Maria!`
+` Keep quiet..."`
+`"This is your pilot, Kawabata.`
+` We'd like to thank you for taking New Tokyo Aviation's flight 201 today.`
+` We estimate that the flight to Niijima Airport will take about twenty minutes."`
+`"We are receiving reports of atmospheric turbulence.`
+` There might be some shaking of the aircraft, so we ask that you do not unfasten your seat belts after takeoff."`
+`"A‐Aniki, did that guy just say we needed to wear seatbelts?!`
+` In a jumbo jet, they let you undo them after takeoff!`
+` So it's gonna shake so much we can't take them off?!"`
+`"Dammit, you tricked me, it is going to shake after all!`
+` Where are the parachutes?!`
+` I knew I should've taken the boooooaaaaat!!"`
