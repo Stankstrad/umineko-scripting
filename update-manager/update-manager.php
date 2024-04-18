@@ -503,7 +503,6 @@ function main($argc, $argv) {
 			if ($locale == 'fr')
 				$footer = file_get_contents($scripting.'/script/fr/umi_ftr.txt');
 			$script .= str_replace(CRLF, LF, $footer);
-			$script .= str_replace(CRLF, LF, $footer);
 
 			localiseScript($script, $scripting.'/script/'.$locale.'/');
 
